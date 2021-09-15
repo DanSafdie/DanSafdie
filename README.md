@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanSafdie
+- 👋 Hi, I’m @DanSafdie.
 - 👀 I’m interested in building products people love.
 - 🌱 I’m currently learning about aircraft engines, to advise my client on how they can digitize their engine manufacturing business.
 - 💞️ I’m looking to collaborate on pet projects focussed on computer vision, SLAM, and robotics.
